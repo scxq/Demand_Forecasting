@@ -4,4 +4,4 @@
 Historical_sales2.csv, Prideicted_list2.csv, product2.csv
 
 # the Code
-DemandForecasting.ipynb
+DemandForecasting.ipynb, still in progress.
